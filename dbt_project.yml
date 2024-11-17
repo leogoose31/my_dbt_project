@@ -49,7 +49,7 @@ models:
       sales_database:
         schema: stg_sales_database
       google_sheet:
-        schema: stg_google_sheet
+        schema: stg_google_sheets
 
     intermediate:
       materialized: view
